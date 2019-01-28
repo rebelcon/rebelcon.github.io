@@ -46,8 +46,19 @@ html, body {
 	font-family: NeuzeitGrotesk;
 }
 
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #c93b06;
+}
+
+/* NAVBAR */
+
 .navbar-default {
-	background-color: #192231;
+	background-color: #fff;
 }
 
 .nav.navbar-nav>li.tickets {
@@ -60,10 +71,14 @@ html, body {
 	padding: 10px;
 }
 
-.nav.navbar-nav>li>a:hover,
-.nav.navbar-nav>li>a:focus,
-.nav.navbar-nav>li>a:active,
-.nav.navbar-nav>li>a.active {
+.nav.navbar-nav>li>a {
+	color: #192231;
+}
+
+.nav.navbar-nav>li.page-scroll>a:hover,
+.nav.navbar-nav>li.page-scroll>a:focus,
+.nav.navbar-nav>li.page-scroll>a:active,
+.nav.navbar-nav>li.page-scroll>a.active {
     color: #c93b06;
 }
 
@@ -71,17 +86,39 @@ html, body {
 .nav.navbar-nav>li.tickets>a:focus,
 .nav.navbar-nav>li.tickets>a:active,
 .nav.navbar-nav>li.tickets>a.active {
-	color: #c93b06;
+	background-color: #192231;
+}
+
+img#nav-logo {
+	width: 200px;
+}
+
+.navbar-default .navbar-toggle.collapsed .icon-bar {
+	background-color: #1a242f;
+}
+
+.navbar-default .navbar-toggle:active .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar {
 	background-color: #ffffff;
 }
 
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-brand:active,
-.navbar-default .navbar-brand.active {
-    color: #ffffff;
-	background-color: transparent;
+@media(max-width: 1024px) {
+	img#nav-logo {
+		width: 100px;
+		margin-left: 0;
+		margin-top: 19px;
+	}
 }
+
+@media(max-width: 768px) {
+	img#nav-logo {
+		width: 150px;
+		margin-left: 12px;
+		margin-top: 12px;
+	}
+}
+
+/* HEADER */
 
 header, section.sponsors {
 	color: #192331;
@@ -108,57 +145,56 @@ header .intro-text .tagline {
 div.header-date-location {
 	padding-top: 30px;
 	color: #c93b06;
-	font-size: 15px;
+	font-size: 30px;
+	margin-left: 30px;
 }
 
 @media (min-width: 768px) {
 	div.header-date-location {
-		font-size: 20px;
-		width: 400px;
-		margin-left: 30px;
+		margin-left: 100px;
 	}
+}
+
+h2,h3,h4 {
+	text-transform: lowercase;
+}
+
+section h2 {
+	font-size: 45px;
 }
 
 div.header-date {
 	font-weight: bold;
-}
-
-span.date-number {
-	font-size: 200%;
+	text-align: left;
 }
 
 div.header-location {
-	font-size: 160%;
+	text-align: left;
 }
 
 div.header-outline {
-	background-image: url("../img/rebelcon_corkcity_line_1440_425.png");
-	height: 424px;
+	background-image: url("../img/rebelcon_skyline_1280.png");
+	height: 402px;
 }
 
-img#nav-logo {
-	width: 200px;
+/* SECTIONS */
+
+section.schedule, section.workshops, section.about, section.conduct, section.portfolio, section.speaker {
+	color: #192231;
+    background-color: #ffffff;
 }
 
-@media(max-width: 1024px) {
-	img#nav-logo {
-		width: 100px;
-		margin-left: 0;
-		margin-top: 19px;
-	}
+section {
+	padding: 30px;
 }
 
-@media(max-width: 768px) {
-	img#nav-logo {
-		width: 150px;
-		margin-left: 12px;
-		margin-top: 12px;
-	}
+section.about {
+	padding-top: 70px;
 }
 
-section.schedule {
-	color: #fff;
-    background-color: #0b3c5d;
+section.location {
+	padding-left: 0;
+	padding-right: 0;
 }
 
 section.schedule a {
@@ -168,11 +204,6 @@ section.schedule a {
 section.speaker a {
 	color: #fff;
 	text-decoration: underline;
-}
-
-section.about, section.conduct {
-	color: #fff;
-    background-color: #192231;
 }
 
 section h2 {
@@ -202,30 +233,6 @@ section.location div#map {
 	margin-top: 40px;
 }
 
-a,
-a:hover,
-a:focus,
-a:active,
-a.active {
-    outline: 0;
-    color: #a5271e;
-}
-
-div.speaker-title {
-	font-size: 1.25em;
-	margin-bottom: 20px;
-}
-
-section#portfolio {
-	background-color: #328cc1;
-	color: #ffffff;
-}
-
-section.speaker {
-	background-color: #328cc1;
-	color: #ffffff;
-}
-
 #portfolio .portfolio-item .portfolio-link .caption {
 	background: rgba(25,34,49,.8);
 }
@@ -235,13 +242,7 @@ section.speaker {
 	text-align: center;
 }
 
-#portfolio .call-for-speakers {
-	font-size: 25px ;
-}
-
-#portfolio .call-for-speakers a {
-	color: #0b3c5d;
-}
+/* SPONSORS */
 
 .sponsor-image {
 	height: 100px;
@@ -264,39 +265,7 @@ section.speaker {
 	border-top: 1px #ddd solid;
 }
 
-div.speaker-talk-title {
-	font-weight: bold;
-	font-size: 20px;
-	margin-bottom: 20px;
-}
-
-span.speaker-lightning-talk {
-	font-size: 15px;
-	opacity: 0.5;
-}
-
-span.schedule-company {
-	font-style: italic;
-}
-
-div.speaker-bio {
-	color: #999999;
-	text-align: justify;
-}
-
-div.speaker-twitter {
-	font-size: 20px;
-	margin-top: 20px;
-}
-
-div.speaker-twitter a {
-	color: #0084b4;
-	text-decoration: none;
-}
-
-img.speaker-modal-image {
-	width: 60%;
-}
+/* SCHEDULE */
 
 div.schedule-day {
 	margin-bottom: 50px;
@@ -367,33 +336,20 @@ table.schedule-table tr {
 	border-bottom: 1px #fff solid;
 }
 
-section#teaser div.teaser-dates {
-	text-align: center;
-	font-size:2em;
+.schedule-talk {
+	padding-bottom: 20px;
 }
 
-section#teaser div.teaser-venue {
-	text-align: center;
-	font-size:1.2em;
+.schedule-time {
+	border-top: 1px #328cc1 solid;
+	padding: 10px 0;
 }
 
-section#teaser div.teaser-keynote div.teaser-keynote-speaker {
-	float: left;
-	width: 30%;
+.schedule-talk img {
+	margin-top: 10px;
 }
 
-section#teaser div.teaser-keynote div.teaser-keynote-speaker div.teaser-keynote-speaker-title {
-	font-size: 30px;
-}
-
-section#teaser div.teaser-keynote div.teaser-keynote-speaker img {
-	width: 100%;
-}
-
-section#teaser div.teaser-keynote div.teaser-keynote-description {
-	float: left;
-	width: 70%;
-}
+/* SECTION - SOCIAL */
 
 section#social {
 	background-color: #f2f2f2;
@@ -413,21 +369,10 @@ section#social a.facebook {
 	color: #3b5998;
 }
 
+/* SPEAKER PAGE */
+
 section#speaker h4 {
 	margin-top: 0;
-}
-
-.schedule-talk {
-	padding-bottom: 20px;
-}
-
-.schedule-time {
-	border-top: 1px #328cc1 solid;
-	padding: 10px 0;
-}
-
-.schedule-talk img {
-	margin-top: 10px;
 }
 
 .interview {
@@ -440,6 +385,8 @@ section#speaker h4 {
 	font-size: 150%;
 	text-align: center;
 }
+
+/* TESTIMONIALS */
 
 div.testimonial {
 	font-size: 150%;
@@ -456,5 +403,20 @@ div.testimonial i.fas {
 
 div.testimonial div.testimonial-speaker {
 	text-align: right;
-	color: #fff;
+}
+
+/* TITO */
+
+div.tito-ticket-description {
+	color: #192231;
+}
+
+button.tito-submit {
+	background: #c93b06 !important;
+	border: 1px solid #c93b06 !important;
+}
+
+button.tito-submit:hover {
+	background: #192231 !important;
+	border: 1px solid #192231 !important;
 }
