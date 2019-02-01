@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/2019/sarah-wells-keynote/</loc>
+    <lastmod>2019-02-01T10:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2018/alison-oshea-ai-for-analysis-of-medical-data-from-newborn-infants/</loc>
     <lastmod>2018-03-24T12:04:08+00:00</lastmod>
   </url>
@@ -123,7 +128,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+    <lastmod>2019-02-01T10:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,7 +139,7 @@
   
   <url>
     <loc>/talks/</loc>
-    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+    <lastmod>2019-02-01T10:49:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -197,10 +197,6 @@ section.location {
 	padding-right: 0;
 }
 
-section.schedule a {
-	color: #fff;
-}
-
 section.speaker a {
 	color: #fff;
 	text-decoration: underline;
@@ -297,6 +293,10 @@ div.schedule-workshop .workshop-content {
 
 div.schedule-workshop .workshop-content p {
 	font-size: 100%;
+}
+
+div.schedule-workshop .workshop-content h4 {
+	text-transform: none;
 }
 
 table.schedule-table {
