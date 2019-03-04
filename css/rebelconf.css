@@ -299,6 +299,11 @@ div.schedule-workshop .workshop-content h4 {
 	text-transform: none;
 }
 
+div.schedule-workshop div.book-ticket {
+	font-weight: bold;
+	padding-top: 10px;
+}
+
 table.schedule-table {
 	border: 1px #fff solid;
 }
