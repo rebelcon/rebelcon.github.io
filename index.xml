@@ -22,6 +22,16 @@ This non-technical talk will tell the story of an ambitious project in difficult
     </item>
     
     <item>
+      <title>Friendly fire: how security software messes up</title>
+      <link>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</guid>
+      <description>For the past 10 years, I have been hunting down, analyzing and preventing False Positives from Symantec’s Security Stack. In this presentation I would like to demonstrate caveats of typical AV techniques. These techniques struggle with: legitimate packed/obfuscated files (for protecting intellectual property), ambiguous behavior (secure lockers for mobile devices, network proxies), unreasonable deployment techniques, and bad reputation caused by bundled applications.
+Through examples and analogies with offline security concepts, I will explain why security software can still mess up.</description>
+    </item>
+    
+    <item>
       <title>Mature microservices and how to operate them</title>
       <link>/talks/2019/sarah-wells-keynote/</link>
       <pubDate>Fri, 01 Feb 2019 10:49:00 +0000</pubDate>
