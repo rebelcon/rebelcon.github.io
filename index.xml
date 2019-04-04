@@ -12,6 +12,57 @@
     
     
     <item>
+      <title>#🙁😐🙂: Building a sentiment analyser for Twitter</title>
+      <link>/talks/2019/donagh-horgan-building-sentiment-analyser-for-twitter/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/donagh-horgan-building-sentiment-analyser-for-twitter/</guid>
+      <description>Can you teach a machine to understand emotion? It’s actually a lot easier than it sounds!
+In this talk, I will show you how to iteratively build an AI-powered pipeline for Twitter sentiment analysis. A PhD in statistics is not required: we’ll start with a simple model and build towards more complex and powerful solutions.</description>
+    </item>
+    
+    <item>
+      <title>Aligning Quality Improvement with Business Outcomes</title>
+      <link>/talks/2019/margaret-dineen-aligning-quality-improvement-with-business-outcomes/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/margaret-dineen-aligning-quality-improvement-with-business-outcomes/</guid>
+      <description>A few months ago I asked a question on Twitter &amp;ldquo;If you have a well thought out design, clean code, wonderful testing and painless deployment but the feature ends up never being used because the user didn’t want or need it in the first place, is that a quality feature?&amp;rdquo;
+I got some very interesting responses.
+We are very focused on how we deliver quality but maybe we need to spend more time looking at what we deliver.</description>
+    </item>
+    
+    <item>
+      <title>Build and Deploy Rapidly with Serverless</title>
+      <link>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</guid>
+      <description>Serverless technology is relatively new and arguably began with the advent of AWS Lambda in 2015. Since then, serverless has become a hot buzzword which has been as greatly misunderstood as DevOps or container technology. This talk aims to demystify serverless concepts and illustrate the many benefits of embracing it. We will talk about common scenarios where serverless is beneficial and where it is not.
+We will see a real-world demonstration application built on AWS technology (Lambda, API Gateway, DynamoDB, Elasticsearch, S3, CloudFormation and more) using .</description>
+    </item>
+    
+    <item>
+      <title>CI/CD/CS - Continuous security in Kubernetes</title>
+      <link>/talks/2019/jorge-salamero-continuous-security-kubernetes/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/jorge-salamero-continuous-security-kubernetes/</guid>
+      <description>Continuous Delivery helps to keep your software and Docker images updated and deploy new versions in production easily. Microservices are great reducing the attack vector and limiting the privileges or credentials access of each piece of your application. Containers provide an opportunity to implement better security, small, inmutable, single process and purpose. How can we implement a DevSecOps process?
+In this session, we will discover real use case examples on how to make your CI/CD pipeline interact with Docker security tools and deploy Kubernetes security features.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Testing in Agile</title>
+      <link>/talks/2019/dan-ashby-continuous-testing-in-agile/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/dan-ashby-continuous-testing-in-agile/</guid>
+      <description>Software Testing is one of the most misunderstood things within the software industry. Too many people have misconceptions about the craft, but that’s probably because it&amp;rsquo;s hard to define and describe.
+Lots of people look to models for answers, but because all models are fallible, they&amp;rsquo;ve added to the problem&amp;hellip; Take the automation pyramid as an example - Many people have formed testing strategies around the automation pyramid based on the flawed thinking that you can automate all the testing things.</description>
+    </item>
+    
+    <item>
       <title>Culture eats improvement before breakfast</title>
       <link>/talks/2019/sabine-wojcieszak-culture-eats-improvement-before-breakfast/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
@@ -29,6 +80,26 @@ This non-technical talk will tell the story of an ambitious project in difficult
       <guid>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</guid>
       <description>For the past 10 years, I have been hunting down, analyzing and preventing False Positives from Symantec’s Security Stack. In this presentation I would like to demonstrate caveats of typical AV techniques. These techniques struggle with: legitimate packed/obfuscated files (for protecting intellectual property), ambiguous behavior (secure lockers for mobile devices, network proxies), unreasonable deployment techniques, and bad reputation caused by bundled applications.
 Through examples and analogies with offline security concepts, I will explain why security software can still mess up.</description>
+    </item>
+    
+    <item>
+      <title>From idea to sale in 6 months</title>
+      <link>/talks/2019/kevin-duggan-from-idea-to-sale-in-6-months/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/kevin-duggan-from-idea-to-sale-in-6-months/</guid>
+      <description>Chances are you have read a book with &amp;ldquo;Lean&amp;rdquo; somewhere in the title. These books are full of great ideas and advice. But how do you actually put them into practice? This talk details how, by adopting some of these lean principles, a fresh small team managed to turn a high-level business goal into a revenue delivering product in just six months.
+Learn why you should talk less to your teammates and more to your customers.</description>
+    </item>
+    
+    <item>
+      <title>The Three Horse Race - Picking a Winner Between Coroutines, Reactive Streams and Effects</title>
+      <link>/talks/2019/garth-gilmour-coroutines-reactive-streams-and-effects/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/garth-gilmour-coroutines-reactive-streams-and-effects/</guid>
+      <description>When developing scalable and responsive applications it is essential to leverage the parallelism provided by the underlying platform. Modern server hardware can support dozens, hundreds or even thousands of cores, but coding directly against these is beyond the reach of the vast majority of developers.
+In modern JVM languages like Kotlin three approaches are available for simplifying the addition of parallelism. The first is the concept of Coroutines, which became an official and integral part of the Kotlin language in version 1.</description>
     </item>
     
     <item>

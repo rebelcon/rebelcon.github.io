@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/2019/donagh-horgan-building-sentiment-analyser-for-twitter/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/margaret-dineen-aligning-quality-improvement-with-business-outcomes/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/jorge-salamero-continuous-security-kubernetes/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/dan-ashby-continuous-testing-in-agile/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2019/sabine-wojcieszak-culture-eats-improvement-before-breakfast/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/kevin-duggan-from-idea-to-sale-in-6-months/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/garth-gilmour-coroutines-reactive-streams-and-effects/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
   
