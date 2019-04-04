@@ -346,6 +346,10 @@ table.schedule-table tr {
 	border-left: 3px solid #c93b06;
 }
 
+.schedule-talk a {
+	color: #328cc1;
+}
+
 .schedule-speaker {
 	color: #192231;
 	text-transform: none: 
