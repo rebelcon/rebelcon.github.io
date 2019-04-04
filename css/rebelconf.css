@@ -156,7 +156,7 @@ div.header-date-location {
 }
 
 h2,h3,h4 {
-	text-transform: lowercase;
+	text-transform: none;
 }
 
 section h2 {
@@ -342,7 +342,13 @@ table.schedule-table tr {
 }
 
 .schedule-talk {
-	padding-bottom: 20px;
+	margin-bottom: 10px;
+	border-left: 3px solid #c93b06;
+}
+
+.schedule-speaker {
+	color: #192231;
+	text-transform: none: 
 }
 
 .schedule-time {
