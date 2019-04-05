@@ -89,8 +89,8 @@ At Dell EMC, the Live Optics group have been building data analysis services sin
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</guid>
-      <description>Have you ever wondered why, in the era of Deep Learning and hover-boards*, security software can still mess up? Why is it so challenging to distinguish clean files from malware? Here are 10 simple tips to make sure your software won’t be blasted off customers’ machines.
-*(they don’t really hover)</description>
+      <description>How come, in the era of Deep Learning and advanced AI, security software does still mess up? Why is it so challenging to distinguish clean files from malware? How can you make sure your software won’t be blasted off customers’ machines?
+I will present 10 simple things a software author can do to avoid it.</description>
     </item>
     
     <item>
