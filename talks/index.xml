@@ -73,13 +73,24 @@ This non-technical talk will tell the story of an ambitious project in difficult
     </item>
     
     <item>
+      <title>Don’t Make Me Wait: Why Web Performance Is Critical for Product Success</title>
+      <link>/talks/2019/paul-mcgrath-why-web-performance-is-critical-for-product-success/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/paul-mcgrath-why-web-performance-is-critical-for-product-success/</guid>
+      <description>Web performance can make or break your product. Users now expect features to be fast, yet are constantly waiting for apps to download, bootstrap, or finish rendering.
+Under-prioritising web performance, then, sets us up for early failure, unless we consider it as a guiding principle that we fold into both our design and development work-streams.
+At Dell EMC, the Live Optics group have been building data analysis services since 2009. Recently we began to build the future foundations of our growing platform, led by this insight.</description>
+    </item>
+    
+    <item>
       <title>Friendly fire: how security software messes up</title>
       <link>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/talks/2019/julie-matviyuk-friendly-fire-how-security-software/</guid>
-      <description>For the past 10 years, I have been hunting down, analyzing and preventing False Positives from Symantec’s Security Stack. In this presentation I would like to demonstrate caveats of typical AV techniques. These techniques struggle with: legitimate packed/obfuscated files (for protecting intellectual property), ambiguous behavior (secure lockers for mobile devices, network proxies), unreasonable deployment techniques, and bad reputation caused by bundled applications.
-Through examples and analogies with offline security concepts, I will explain why security software can still mess up.</description>
+      <description>Have you ever wondered why, in the era of Deep Learning and hover-boards*, security software can still mess up? Why is it so challenging to distinguish clean files from malware? Here are 10 simple tips to make sure your software won’t be blasted off customers’ machines.
+*(they don’t really hover)</description>
     </item>
     
     <item>
