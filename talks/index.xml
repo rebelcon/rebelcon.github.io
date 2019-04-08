@@ -104,6 +104,16 @@ Learn why you should talk less to your teammates and more to your customers.</de
     </item>
     
     <item>
+      <title>Monitoring Microservices in Kubernetes: Collecting mission critical metrics</title>
+      <link>/talks/2019/david-gonzalez-alex-knol-kubernetes-monitoring/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/david-gonzalez-alex-knol-kubernetes-monitoring/</guid>
+      <description>Why Monitoring? There is a vast amount of literature about running Kubernetes in production but… when there are problems? how can we quickly diagnose what is going on? Kubernetes is like a black box which usually takes few disasters to get the grasp on.
+What will be talking about? In this talk we are going to learn how to use monitoring in our favour not only for detecting issues but also to predict them and save time and money: When is our hard drive is going to be full?</description>
+    </item>
+    
+    <item>
       <title>The Surprising Benefits of Exploring Other Disciplines and Industries</title>
       <link>/talks/2019/conor-fitzgerald-surprising-benefits-of-exploring-other-disciplines/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
