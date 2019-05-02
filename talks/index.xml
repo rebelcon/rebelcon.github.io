@@ -33,6 +33,15 @@ We are very focused on how we deliver quality but maybe we need to spend more ti
     </item>
     
     <item>
+      <title>An overview of Site Reliability Engineering at Google</title>
+      <link>/talks/2019/david-french-overview-of-sre-at-google/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/david-french-overview-of-sre-at-google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Build and Deploy Rapidly with Serverless</title>
       <link>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
