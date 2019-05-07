@@ -33,15 +33,6 @@ We are very focused on how we deliver quality but maybe we need to spend more ti
     </item>
     
     <item>
-      <title>An overview of Site Reliability Engineering at Google</title>
-      <link>/talks/2019/david-french-overview-of-sre-at-google/</link>
-      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talks/2019/david-french-overview-of-sre-at-google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Build and Deploy Rapidly with Serverless</title>
       <link>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
@@ -130,6 +121,15 @@ I will present 10 simple things a software author can do to avoid it.</descripti
       <guid>/talks/2019/kevin-duggan-from-idea-to-sale-in-6-months/</guid>
       <description>Chances are you have read a book with &amp;ldquo;Lean&amp;rdquo; somewhere in the title. These books are full of great ideas and advice. But how do you actually put them into practice? This talk details how, by adopting some of these lean principles, a fresh small team managed to turn a high-level business goal into a revenue delivering product in just six months.
 Learn why you should talk less to your teammates and more to your customers.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to SRE at Google</title>
+      <link>/talks/2019/david-french-overview-of-sre-at-google/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/2019/david-french-overview-of-sre-at-google/</guid>
+      <description>David will cover how Site Reliability Engineering is different from pure Software Engineering and DevOps. In his talk, he will go through core SRE concepts like Error Budget and SLO, in addition to the overall organisational structure within which SRE sits at Google.</description>
     </item>
     
     <item>

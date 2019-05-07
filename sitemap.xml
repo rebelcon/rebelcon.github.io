@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>/talks/2019/david-french-overview-of-sre-at-google/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talks/2019/christopher-paton-build-and-deploy-rapidly-with-serverless/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -59,6 +54,11 @@
   
   <url>
     <loc>/talks/2019/kevin-duggan-from-idea-to-sale-in-6-months/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/2019/david-french-overview-of-sre-at-google/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
   
