@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/2019/augusto-evangelisti-leadership-in-complex-times/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/2019/donagh-horgan-building-sentiment-analyser-for-twitter/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -203,7 +208,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +219,7 @@
   
   <url>
     <loc>/talks/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
