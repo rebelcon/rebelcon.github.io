@@ -53,10 +53,10 @@ We will see a real-world demonstration application built on AWS technology (Lamb
     
     <item>
       <title>CI/CD/CS - Continuous security in Kubernetes</title>
-      <link>/talks/2019/jorge-salamero-continuous-security-kubernetes/</link>
+      <link>/talks/2019/mateo-burillo-continuous-security-kubernetes/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/talks/2019/jorge-salamero-continuous-security-kubernetes/</guid>
+      <guid>/talks/2019/mateo-burillo-continuous-security-kubernetes/</guid>
       <description>Continuous Delivery helps to keep your software and Docker images updated and deploy new versions in production easily. Microservices are great reducing the attack vector and limiting the privileges or credentials access of each piece of your application. Containers provide an opportunity to implement better security, small, inmutable, single process and purpose. How can we implement a DevSecOps process?
 In this session, we will discover real use case examples on how to make your CI/CD pipeline interact with Docker security tools and deploy Kubernetes security features.</description>
     </item>
