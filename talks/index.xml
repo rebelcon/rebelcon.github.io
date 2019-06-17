@@ -6,10 +6,19 @@
     <description>Recent content in Talks on RebelCon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 10:49:00 +0000</lastBuildDate>
     
 	<atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging the brain</title>
+      <link>/talks/2019/debugging-the-brain/</link>
+      <pubDate>Sun, 16 Jun 2019 10:49:00 +0000</pubDate>
+      
+      <guid>/talks/2019/debugging-the-brain/</guid>
+      <description>Depression, anxiety, isolation and impostor syndrome are among some of the mental health concerns in the tech industry. Join Elysia Hegarty from The Future of Work Institute as she interviews an amazing panel around what tendencies we are seeing in the technology industry with regards to mental health, why we need to overcome the associated stigma, speaking up and fostering mental fitness whilst pushing yourself to achieve success.</description>
+    </item>
     
     <item>
       <title>Leadership in complex times</title>
